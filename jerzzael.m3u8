@@ -1,17 +1,8 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
+ #EXTM3U URL-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58")**= = == == ===  
 
-************************  11/FEB/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
-************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
-************************ HI THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
-************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
-************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
-
-#EXTINF:-1 group-title="Bics", 11 DE FEB 12:00 HRS
-https://zzzz.zzz
-
-#EXTINF:-1 group-title="Bics", AZTECA UNO
+#EXTINF:-1 grupo-título="Bics", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 group-title="Bics", AZTECA UNO -1 HR
+#EXTINF:-1 grupo-título= "Bics", AZTECA UNO -1 HR
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
 *****https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX
@@ -28,68 +19,68 @@ https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS LATAM
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Bics", IMAGEN TV
+#EXTINF:-1 grupo-título="Bics", IMAGEN TV
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/3767
-#EXTINF:-1 group-title="Bics", IMAGEN TV
+#EXTINF:-1 grupo-título="Bics", IMAGEN TV
 http://936261971205766855.ofd0203.xyz:80/play/vi713179/nMFB8xYAHBhh/766855.ts
 
-#EXTINF:-1 group-title="Bics", CANAL 5
+#EXTINF:-1 grupo-título="Bics", CANAL 5
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1155865
-#EXTINF:-1 group-title="Bics", CANAL 5
+#EXTINF:-1 grupo-título="Bics", CANAL 5
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-#EXTINF:-1 group-title="Bics", CANAL 5
+#EXTINF:-1 grupo-título="Bics", CANAL 5
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", MULTIMEDIOS MTY
+#EXTINF:-1 grupo-título="Bics", MULTIMEDEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 group-title="Bics", MULTIMEDIOS LAGUNA
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1 group-title="Bics", MULTIMEDIOS GDL
+#EXTINF:-1 grupo-título="Bics", MULTIMEDIOS GDL
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:-1 group-title="Bics", AZTECA 7
+#EXTINF:-1 grupo-título="Bics", AZTECA 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 group-title="Bics", AZTECA 7 2
+#EXTINF:-1 grupo-título="Bics", AZTECA 7 2
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 group-title="Bics", AZTECA 7 3
+#EXTINF:-1 grupo-título="Bics", AZTECA 7 3
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 group-title="Bics", NU9VE
+#EXTINF:-1 grupo-título="Bics", NU9VE
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
-#EXTINF:-1 group-title="Bics", NU9VE
+#EXTINF:-1 grupo-título="Bics", NU9VE
 https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", ONCE
+#EXTINF:-1 grupo-título="Bics", ONCE
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 group-title="Bics", ADN 40
+#EXTINF:-1 grupo-título="Bics", ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1  group-title="Bics", A+
+#EXTINF:-1 grupo-título="Bics", A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1  group-title="Bics", MVS
+#EXTINF:-1 grupo-título="Bics", MVS
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:-1 group-title="Bics", MILENIO
+#EXTINF:-1 grupo-título="Bics", MILENIO
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 group-title="Bics", 4 GDL
+#EXTINF:-1 grupo-título="Bics", 4 GDL
 https://linear-402.frequency.stream/mt/studio/402/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", 8 MTY
+#EXTINF:-1 grupo-título="Bics", 8 MTY
 https://linear-403.frequency.stream/mt/studio/403/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", UNICABLE
+#EXTINF:-1 grupo-título="Bics", UNICABLE
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", UNIVISION
+#EXTINF:-1 grupo-título="Bics", UNIVISIÓN
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", UNIVISION 24/7
+#EXTINF:-1 grupo-título= "Bics", UNIVISIÓN 24/7
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", EURO NEWS
+#EXTINF:-1 grupo-título="Bics", NOTICIAS EURO
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", ATV+ PE
+#EXTINF:-1 grupo-título="Bics", ATV+ PE
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", TN23
+#EXTINF:-1 grupo-título="Bics", TN23
 https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", FORO TV
+#EXTINF:-1 grupo-título="Bics", FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-#EXTINF:-1 group-title="Bics", FORO TV
+#EXTINF:-1 grupo-título="Bics", FORO TV
 https://linear-300.frequency.stream/mt/studio/300/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", N+ MEDIA
+#EXTINF:-1 grupo-título="Bics", N+ MEDIA
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
-#EXTINF:-1 group-title="Bics", N+ MEDIA
+#EXTINF:-1 grupo-título="Bics", N+ MEDIA
 https://linear-301.frequency.stream/mt/studio/301/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", N+
+#EXTINF:-1 grupo-título="Bics", N+
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1 group-title="Bics", N+ GDL
 https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
